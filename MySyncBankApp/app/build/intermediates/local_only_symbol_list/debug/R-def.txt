@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable carecredit_image
+drawable ic_accounts
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_marketplace
+drawable ic_more
+drawable ic_payments
+drawable synchrony_car_care_image
+drawable synchrony_home_image
+id bottom_navigation
+id card_container
+id greeting_text
+id navigation_accounts
+id navigation_marketplace
+id navigation_more
+id navigation_payments
+layout activity_main
+menu bottom_navigation_menu
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.MySyncBankApp
+style Theme.MySyncBankApp
+xml backup_rules
+xml data_extraction_rules
